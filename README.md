@@ -4,11 +4,11 @@ yavin4 is a simple nodejs project which demonstrates of the use of the request a
 
 ## request package
 
-You can find the [link]:https://github.com/request/request "official repo code" which primarly extends the nodejs https module.
+You can find the [request : official repo code](https://github.com/request/request) which primarly extends the nodejs https module.
 
 ## bruteforce package
 
-You can find the [link](github.com/AjayMT/bruteforce) "official rep code".
+You can find the [bruteforce : official repo](https://github.com/AjayMT/bruteforce).
 
 ## Dependencies
 
