@@ -24,6 +24,10 @@ NodeJS
 
 <code>node app.js</code>
 
+## Conclusion
+
+I would like this project to work toward rapid deployment and flushing with all major PaaS.
+
 
 
 
